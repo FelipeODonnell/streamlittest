@@ -137,4 +137,4 @@ if choice == "Swaps":
 
 if choice == "Market": 
     st.title("Example of Derivatives Securities Market")
-    st.image('Data/333368727_567698838713526_2956667945644696937_n.jpg')
+    st.image('333368727_567698838713526_2956667945644696937_n.jpg')
